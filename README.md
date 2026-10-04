@@ -1,9 +1,10 @@
-# Cuyahoga Falls Hydro Jetting Pros
+# Hudson Hydro Jetting Pros
 
-Astro site. Phone number, GA4 ID and tracker ID live in `src/data/siteConfig.ts`. Page copy lives in `src/data/content.json`.
+Astro multi-page website based on the Cuyahoga Falls layout. Preview only.
 
-```sh
-npm install
-npm run dev
-npm run build
-```
+Phone, tracker, GA4 and future canonical domain: `src/data/siteConfig.ts`.
+Content and linked local sources: `src/data/content.json`.
+
+`npm ci && npm run build` builds the production-root files. The Pages workflow rewrites local asset and navigation paths for the preview subdirectory only.
+
+The canonical domain is assumed and has not been launched. No Search Console setup. Form field and browser checks do not establish CRM receipt.
