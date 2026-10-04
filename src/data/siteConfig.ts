@@ -4,7 +4,7 @@ export const siteConfig = {
   origin: 'https://hudsonhydrojetting.prosapp.site',
   phoneDisplay: '(877) 761-0283',
   phoneHref: '+18777610283',
-  ga4MeasurementId: '',
+  ga4MeasurementId: 'G-Y0M1VY6GS4',
   airchattyTrackingId: 'tk_61d238e145314251999b74fdd5c953cf',
   brandCity: 'Hudson',
   cityState: 'Hudson, Ohio',

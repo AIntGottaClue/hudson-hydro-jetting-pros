@@ -40,3 +40,4 @@ h1,h2,h3,.brand-txt,.ftr h4{font-family:'Archivo Black','Barlow',sans-serif;text
 @media(max-width:980px){.hero-in{grid-template-columns:1fr;gap:32px}.hero-home .hero-in{padding-top:44px;padding-bottom:44px}.hero-copy{max-width:680px}.form-card{max-width:680px}.fab-deal-text-k{display:none}.fab-deal{padding:12px 18px;bottom:12px;right:12px}.ftr{padding-bottom:90px}}
 @media(prefers-reduced-motion:reduce){.fab-deal:after,.fab-deal svg{animation:none}}
 .sec-cards .cards{grid-column:1/-1;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}.fab-deal:before{display:none}.fab-deal-ico{animation:none;border-radius:50%}.fab-deal-text-k{text-transform:none;letter-spacing:0;color:inherit}.fab-deal-text-v{color:inherit}.sec-fig{margin:32px 0 0}.sec-fig img{border-radius:18px;max-height:460px;width:100%;object-fit:cover}@media(max-width:800px){.sec-cards .cards{grid-template-columns:1fr}}
+@media(min-width:981px){.fab-deal{left:20px;right:auto}}
