@@ -1,224 +1,98 @@
 {
- "/": {
-  "1": {
-   "src": "/assets/img/action-on-the-job-13.webp",
-   "alt": "Technician running a hydro jetting hose on a service call",
-   "w": 1200,
-   "h": 896
+  "/": {
+    "0": {
+      "src": "/assets/img/power-spray-3.jpg",
+      "alt": "Water spray from a hydro jetting nozzle",
+      "w": 1200,
+      "h": 896
+    }
   },
-  "2": {
-   "src": "/assets/img/og-pipe-jetting.webp",
-   "alt": "Hydro jetting nozzle clearing a sewer line",
-   "w": 1200,
-   "h": 859
+  "severe-grease-and-sludge": {
+    "0": {
+      "src": "/assets/img/grease-sludge-cross-section-31.jpg",
+      "alt": "Grease deposits inside a drain pipe",
+      "w": 1200,
+      "h": 896
+    }
   },
-  "3": {
-   "src": "/assets/img/digital-diagnostic-integration-29.webp",
-   "alt": "Camera inspection of a drain line",
-   "w": 1200,
-   "h": 896
+  "tree-root-intrusions": {
+    "0": {
+      "src": "/assets/img/root-macro-action-37.jpg",
+      "alt": "Water jet clearing roots from a pipe",
+      "w": 1200,
+      "h": 896
+    }
   },
-  "4": {
-   "src": "/assets/img/split-screen-miracle-19.webp",
-   "alt": "A clogged pipe compared with the same pipe after jetting",
-   "w": 1200,
-   "h": 896
+  "recurring-clogs-and-slow-drains": {
+    "0": {
+      "src": "/assets/img/power-spray-3.jpg",
+      "alt": "Water spray from a hydro jetting nozzle",
+      "w": 1200,
+      "h": 896
+    }
+  },
+  "mineral-and-scale-deposits": {
+    "0": {
+      "src": "/assets/img/mineral-scale-macro-42.jpg",
+      "alt": "Mineral buildup in a pipe",
+      "w": 1200,
+      "h": 896
+    }
+  },
+  "preventative-maintenance": {
+    "0": {
+      "src": "/assets/img/power-spray-3.jpg",
+      "alt": "Water spray from a hydro jetting nozzle",
+      "w": 1200,
+      "h": 896
+    }
+  },
+  "how-hydro-jetting-works": {
+    "0": {
+      "src": "/assets/img/power-spray-3.jpg",
+      "alt": "Water spray from a hydro jetting nozzle",
+      "w": 1200,
+      "h": 896
+    }
+  },
+  "hydro-jetting-vs-snaking": {
+    "0": {
+      "src": "/assets/img/power-spray-3.jpg",
+      "alt": "Water spray from a hydro jetting nozzle",
+      "w": 1200,
+      "h": 896
+    }
+  },
+  "historic-downtown": {
+    "0": {
+      "src": "/assets/img/power-spray-3.jpg",
+      "alt": "Water spray from a hydro jetting nozzle",
+      "w": 1200,
+      "h": 896
+    }
+  },
+  "north-main-street": {
+    "0": {
+      "src": "/assets/img/power-spray-3.jpg",
+      "alt": "Water spray from a hydro jetting nozzle",
+      "w": 1200,
+      "h": 896
+    }
+  },
+  "darrowville": {
+    "0": {
+      "src": "/assets/img/power-spray-3.jpg",
+      "alt": "Water spray from a hydro jetting nozzle",
+      "w": 1200,
+      "h": 896
+    }
+  },
+  "darrow-road-corridor": {
+    "0": {
+      "src": "/assets/img/power-spray-3.jpg",
+      "alt": "Water spray from a hydro jetting nozzle",
+      "w": 1200,
+      "h": 896
+    }
   }
- },
- "tree-root-intrusions": {
-  "0": {
-   "src": "/assets/img/root-cutting-yard-36.webp",
-   "alt": "Tree roots growing toward a buried sewer line",
-   "w": 1200,
-   "h": 896
-  },
-  "1": {
-   "src": "/assets/img/root-macro-action-37.webp",
-   "alt": "Close view of roots cut out of a pipe",
-   "w": 1200,
-   "h": 896
-  },
-  "2": {
-   "src": "/assets/img/root-reassurance-38.webp",
-   "alt": "Clear pipe after root cutting",
-   "w": 1200,
-   "h": 896
-  }
- },
- "severe-grease-and-sludge": {
-  "0": {
-   "src": "/assets/img/grease-trap-cleanout-32.webp",
-   "alt": "Grease trap cleanout",
-   "w": 1200,
-   "h": 896
-  },
-  "1": {
-   "src": "/assets/img/grease-sludge-cross-section-31.webp",
-   "alt": "Cross section of a pipe lined with grease and sludge",
-   "w": 1200,
-   "h": 896
-  },
-  "2": {
-   "src": "/assets/img/grease-night-equipment-34.webp",
-   "alt": "Jetting equipment set up for grease removal",
-   "w": 1200,
-   "h": 896
-  }
- },
- "mineral-and-scale-deposits": {
-  "0": {
-   "src": "/assets/img/mineral-scale-macro-42.webp",
-   "alt": "Mineral scale built up inside a pipe",
-   "w": 1200,
-   "h": 896
-  },
-  "1": {
-   "src": "/assets/img/mineral-scale-industrial-43.webp",
-   "alt": "Scale removal in an older drain line",
-   "w": 1200,
-   "h": 896
-  }
- },
- "recurring-clogs-and-slow-drains": {
-  "0": {
-   "src": "/assets/img/recurring-clogs-clean-sweep-41.webp",
-   "alt": "Drain line after a full jetting pass",
-   "w": 1200,
-   "h": 896
-  },
-  "1": {
-   "src": "/assets/img/recurring-clogs-before-after-40.webp",
-   "alt": "Before and after view of a recurring clog",
-   "w": 1200,
-   "h": 896
-  },
-  "2": {
-   "src": "/assets/img/recurring-clogs-split-screen-39.webp",
-   "alt": "Split view of a clogged and a cleared pipe",
-   "w": 1200,
-   "h": 896
-  }
- },
- "preventative-maintenance": {
-  "0": {
-   "src": "/assets/img/preventative-digital-inspection-47.webp",
-   "alt": "Digital inspection during a maintenance visit",
-   "w": 1200,
-   "h": 896
-  },
-  "1": {
-   "src": "/assets/img/preventative-service-fleet-46.webp",
-   "alt": "Service vehicles ready for scheduled maintenance",
-   "w": 1200,
-   "h": 896
-  }
- },
- "hydro-jetting-vs-snaking": {
-  "0": {
-   "src": "/assets/img/pipe-blueprint-4.webp",
-   "alt": "Diagram of a sewer line and cleanout",
-   "w": 1200,
-   "h": 896
-  },
-  "1": {
-   "src": "/assets/img/power-spray-1.webp",
-   "alt": "High pressure water jet in action",
-   "w": 1200,
-   "h": 896
-  },
-  "2": {
-   "src": "/assets/img/split-screen-miracle-20.webp",
-   "alt": "Pipe before and after cleaning",
-   "w": 1200,
-   "h": 896
-  },
-  "3": {
-   "src": "/assets/img/og-pipe-jetting.webp",
-   "alt": "Jetting nozzle inside a pipe",
-   "w": 1200,
-   "h": 859
-  }
- },
- "how-hydro-jetting-works": {
-  "0": {
-   "src": "/assets/img/power-spray-3.webp",
-   "alt": "Pressurized water leaving a jetting nozzle",
-   "w": 1200,
-   "h": 896
-  },
-  "1": {
-   "src": "/assets/img/sonic-blast-7.webp",
-   "alt": "Water jet cleaning the pipe wall",
-   "w": 1200,
-   "h": 896
-  },
-  "2": {
-   "src": "/assets/img/digital-diagnostic-integration-28.webp",
-   "alt": "Camera check of the line after cleaning",
-   "w": 1200,
-   "h": 896
-  },
-  "3": {
-   "src": "/assets/img/action-on-the-job-14.webp",
-   "alt": "Technician working at a cleanout",
-   "w": 1200,
-   "h": 896
-  }
- },
- "downtown-front-street": {
-  "0": {
-   "src": "/assets/img/commercial-scale-expertise-16.webp",
-   "alt": "Crew preparing jetting equipment",
-   "w": 1200,
-   "h": 670
-  },
-  "1": {
-   "src": "/assets/img/og-hero-jetting.webp",
-   "alt": "Plumber working on a drain line",
-   "w": 1200,
-   "h": 669
-  }
- },
- "broad-boulevard": {
-  "0": {
-   "src": "/assets/img/action-on-the-job-15.webp",
-   "alt": "Technician at work on a drain line",
-   "w": 1200,
-   "h": 896
-  },
-  "1": {
-   "src": "/assets/img/sparkling-finish-22.webp",
-   "alt": "Clean pipe after hydro jetting",
-   "w": 1200,
-   "h": 896
-  }
- },
- "broadbeck-park": {
-  "0": {
-   "src": "/assets/img/elite-technician-10.webp",
-   "alt": "Licensed technician with jetting equipment",
-   "w": 1200,
-   "h": 896
-  },
-  "1": {
-   "src": "/assets/img/digital-diagnostic-integration-30.webp",
-   "alt": "Inspection camera view of a drain line",
-   "w": 1200,
-   "h": 896
-  }
- },
- "northampton": {
-  "0": {
-   "src": "/assets/img/og-hero-jetting.webp",
-   "alt": "Plumber working on a drain line",
-   "w": 1200,
-   "h": 669
-  },
-  "1": {
-   "src": "/assets/img/commercial-scale-expertise-16.webp",
-   "alt": "Crew preparing jetting equipment",
-   "w": 1200,
-   "h": 670
-  }
- }
 }
