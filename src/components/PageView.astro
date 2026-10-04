@@ -8,7 +8,7 @@ const {slug}=Astro.props; const pg=content.pages[slug];const home=slug==='/';con
 const fill=s=>String(s??'').replace(/\{\{PHONE_DISPLAY\}\}/g,siteConfig.phoneDisplay).replace(/\{\{PHONE_HREF\}\}/g,siteConfig.phoneHref).replace(/\{\{BRAND\}\}/g,siteConfig.brand);
 const url=siteConfig.origin+(home?'/':`/${slug}/`);const figs=images[slug]||{};
 ---
-<Base title={pg.title} desc={pg.desc} canonical={url} ld={pg.ld} modified={siteConfig.lastModified}>
+<Base title={pg.title} desc={pg.desc} canonical={url} ld={[...pg.ld,JSON.stringify({"@context":"https://schema.org","@type":"Organization",name:siteConfig.brand,url:siteConfig.origin,telephone:siteConfig.phoneHref,areaServed:{"@type":"City",name:"Hudson, Ohio"}})]} modified={siteConfig.lastModified}>
 <Chrome part="header" fill={fill}/>
 <main id="main">
 <section class={`hero ${home?'hero-home':'hero-page'}`}>
