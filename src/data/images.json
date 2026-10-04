@@ -5,6 +5,24 @@
       "alt": "Water spray from a hydro jetting nozzle",
       "w": 1200,
       "h": 896
+    },
+    "1": {
+      "src": "/assets/img/action-on-the-job-13.jpg",
+      "alt": "Technician working with a hydro jetting hose",
+      "w": 1200,
+      "h": 896
+    },
+    "2": {
+      "src": "/assets/img/root-macro-action-37.jpg",
+      "alt": "Water jet clearing roots inside a pipe",
+      "w": 1200,
+      "h": 896
+    },
+    "4": {
+      "src": "/assets/img/action-on-the-job-13.jpg",
+      "alt": "Hydro jetting hose and equipment at a property",
+      "w": 1200,
+      "h": 896
     }
   },
   "severe-grease-and-sludge": {
