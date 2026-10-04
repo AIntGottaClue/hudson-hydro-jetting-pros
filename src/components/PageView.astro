@@ -16,6 +16,7 @@ const url=siteConfig.origin+(home?'/':`/${slug}/`);const figs=images[slug]||{};
 <div class="hero-in"><div class="hero-copy"><h1>{pg.h1}</h1><p class="hero-p" set:html={fill(pg.heroP)}/><div class="hero-actions"><a class="btn btn-primary" href={'tel:'+siteConfig.phoneHref}>Call {siteConfig.phoneDisplay}</a><a class="btn btn-ghost" href="#contact">Request a Call</a></div></div>
 <div class="form-card" id="contact"><h2>Request a call</h2><Fragment set:html={fill(pg.formHtml)}/></div></div>
 </section>
+{pg.intro&&<section class="sec sec-lede"><div class="sec-in prose"><p set:html={fill(pg.intro)}/></div></section>}
 {pg.sections.map((s,i)=><section class={`sec sec-${s.kind} sec-${i%2?'b':'a'}`}><div class="sec-in"><Fragment set:html={fill(s.html)}/>{figs[String(i)]&&<figure class="sec-fig"><img src={figs[String(i)].src} alt={figs[String(i)].alt} width="1200" height="896" loading="lazy"/></figure>}</div></section>)}
 {pg.faq&&<section class="sec sec-faq"><div class="sec-in"><h2>Common questions</h2><div class="faq">{pg.faq.map(f=><details><summary set:html={fill(f.q)}/><p set:html={fill(f.a)}/></details>)}</div></div></section>}
 </main><Chrome part="footer" fill={fill}/>

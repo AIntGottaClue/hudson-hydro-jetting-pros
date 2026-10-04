@@ -46,24 +46,36 @@
       "h1": "Hudson Hydro Jetting Pros",
       "heroP": "Slow drains in a historic home, grease buildup in a busy kitchen or a recurring sewer backup? Start with a check of the line and a cleaning method that fits its condition.",
       "bc": null,
-      "intro": null,
+      "intro": "Hudson\u2019s historic core, converted Darrowville buildings and newer residential properties do not all share the same drain layout. Identify the affected line and its condition before choosing a cleaning method.",
       "sections": [
         {
           "kind": "cards",
-          "html": "<h2>Find the right next step</h2><div class=\"cards\"><article><h3>Severe Grease and Sludge</h3><p>Grease can coat the inside of a line, even when water still passes through.</p><a href=\"/severe-grease-and-sludge/\">Learn more</a></article><article><h3>Tree Root Intrusions</h3><p>Root entry needs an inspection as well as a plan for cleaning.</p><a href=\"/tree-root-intrusions/\">Learn more</a></article><article><h3>Recurring Clogs and Slow Drains</h3><p>A returning blockage deserves more than another temporary opening.</p><a href=\"/recurring-clogs-and-slow-drains/\">Learn more</a></article><article><h3>Mineral and Scale Deposits</h3><p>Pipe condition matters before hard deposits are removed.</p><a href=\"/mineral-and-scale-deposits/\">Learn more</a></article><article><h3>Preventative Maintenance</h3><p>Plan cleaning around verified buildup, not a fixed promise.</p><a href=\"/preventative-maintenance/\">Learn more</a></article></div>"
+          "html": "<h2>Find the right next step</h2><p>A returning kitchen clog and roots in a buried service line call for different checks. These services explain what can be cleaned, what should be inspected and when pipe repair may matter more than another clearing.</p><div class=\"cards\"><article><h3>Severe Grease and Sludge</h3><p>Grease can coat the inside of a line, even when water still passes through.</p><a href=\"/severe-grease-and-sludge/\">Learn more</a></article><article><h3>Tree Root Intrusions</h3><p>Root entry needs an inspection as well as a plan for cleaning.</p><a href=\"/tree-root-intrusions/\">Learn more</a></article><article><h3>Recurring Clogs and Slow Drains</h3><p>A returning blockage deserves more than another temporary opening.</p><a href=\"/recurring-clogs-and-slow-drains/\">Learn more</a></article><article><h3>Mineral and Scale Deposits</h3><p>Pipe condition matters before hard deposits are removed.</p><a href=\"/mineral-and-scale-deposits/\">Learn more</a></article><article><h3>Preventative Maintenance</h3><p>Plan cleaning around verified buildup, not a fixed promise.</p><a href=\"/preventative-maintenance/\">Learn more</a></article></div>"
         },
         {
           "kind": "prose",
-          "html": "<h2>Start with the right line</h2><p>Hudson identifies Summit County as its sanitary sewer provider. The connection at your property still needs to be checked: a slow private drain, a public sewer issue and a household sewage system call for different next steps. Describe which fixtures back up and whether it happens after rain.</p><p>Cleaning does not repair a broken pipe. If excavation or a structural change becomes necessary, check Hudson and county requirements before work begins.</p><p><a href=\"https://www.hudson.oh.us/822/Sewer\">Hudson sewer information</a> \u00b7 <a href=\"https://www.hudson.oh.us/235/Residential-Permits\">Residential permit guidance</a></p>"
+          "html": "<h2>Start with the right line</h2><p>Hudson identifies Summit County as its sanitary sewer provider. The connection at your property still needs to be checked: a slow private drain, a public sewer issue and a household sewage system call for different next steps. Describe which fixtures back up and whether it happens after rain.</p><p>Cleaning does not repair a broken pipe. If excavation or a structural change becomes necessary, check Hudson and county requirements before work begins.</p><p><a href=\"https://www.hudson.oh.us/822/Sewer\">Hudson sewer information</a> \u00b7 <a href=\"https://www.hudson.oh.us/235/Residential-Permits\">Residential permit guidance</a></p><aside><strong>Ask what the inspection shows</strong><p>For a North Main Street home with additions or prior repairs, the building\u2019s age does not establish the material of the buried line. Ask where the obstruction sits, what condition the pipe is in and whether pressure cleaning is suitable for that section.</p></aside>"
         },
         {
           "kind": "prose",
-          "html": "<h2>Hudson areas we cover</h2><p>Explore local drainage considerations for the historic core, North Main Street, Darrowville and the Darrow Road corridor.</p>"
+          "html": "<h2>Understand the cleaning options</h2><p>A cable may open a path through a blockage without clearing buildup along the pipe wall. Read <a href=\"/hydro-jetting-vs-snaking/\">how hydro jetting compares with snaking</a> before repeating the same approach to a returning clog. Our <a href=\"/how-hydro-jetting-works/\">hydro jetting process guide</a> explains inspection, access and the final check.</p><p>In a converted Darrowville property, current use and past alterations are useful details for the drain professional. Neither method repairs a cracked joint or collapsed section.</p>"
+        },
+        {
+          "kind": "prose",
+          "html": "<h2>Hudson neighborhood pages</h2><p>Compact downtown frontage, historic North Main Street houses and mixed-use properties farther south each raise different access and drainage questions. Explore the area pages for local context without assuming that every property has the same sewer connection.</p><a href=\"/historic-downtown/\">Historic Downtown</a> <a href=\"/north-main-street/\">North Main Street</a> <a href=\"/darrowville/\">Darrowville</a> <a href=\"/darrow-road-corridor/\">Darrow Road Corridor</a> "
+        },
+        {
+          "kind": "steps",
+          "html": "<h2>From symptoms to the right next step</h2><p>Start with what you have observed, then let the line\u2019s condition guide the work. A cleaning visit and a buried-pipe repair are different scopes.</p><ol><li><strong>Describe the drain problem</strong><span>Note affected fixtures, rain timing, previous clearing and whether the property uses sanitary sewer or a household sewage system.</span></li><li><strong>Check the line and access</strong><span>A professional can locate the obstruction, inspect pipe condition and plan access around a downtown building or residential yard.</span></li><li><strong>Choose suitable work</strong><span>Cleaning may remove buildup from a sound pipe. Root entry, offset joints or collapse may require a separate repair plan and review of local requirements.</span></li></ol>"
+        },
+        {
+          "kind": "prose",
+          "html": "<h2>Talk through the drain problem</h2><p>Describe how long the issue has been happening and whether one fixture or several are affected. Include previous cleaning or repairs so the professional can assess what needs checking rather than assume every slow drain needs jetting.</p><p>Prefer to talk through access or symptoms? Call <a href=\"tel:{{PHONE_HREF}}\">{{PHONE_DISPLAY}}</a>, or <a href=\"#contact\">request a call using the form above</a>.</p>"
         }
       ],
       "ld": [
         "{\"@context\": \"https://schema.org\", \"@type\": \"WebPage\", \"name\": \"Hudson Hydro Jetting Pros\", \"url\": \"https://hudsonhydrojetting.prosapp.site/\", \"description\": \"Slow drains in a historic home, grease buildup in a busy kitchen or a recurring sewer backup? Start with a check of the line and a cleaning method that fits its condition.\"}",
-        "{\"@context\": \"https://schema.org\", \"@type\": \"FAQPage\", \"mainEntity\": [{\"@type\": \"Question\", \"name\": \"Is hydro jetting right for every pipe?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"No. A qualified professional should check the material, condition and blockage before choosing pressure or a nozzle. Broken or badly deteriorated pipes may need repair instead.\"}}, {\"@type\": \"Question\", \"name\": \"What should I include in my request?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Describe the affected fixtures, how long the problem has been present, any prior cleaning and whether the property uses sanitary sewer or a household sewage system.\"}}]}"
+        "{\"@context\": \"https://schema.org\", \"@type\": \"FAQPage\", \"mainEntity\": [{\"@type\": \"Question\", \"name\": \"Is hydro jetting right for every Hudson sewer pipe?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"No. Historic homes may contain later replacement sections, and appearance alone does not establish condition. A professional should check the pipe and choose suitable equipment before cleaning.\"}}, {\"@type\": \"Question\", \"name\": \"Will cleaning prevent every future sewer backup?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"No. Cleaning can remove suitable obstructions, but it does not close an open joint or repair a collapsed line. A returning backup may need inspection and repair as well as cleaning.\"}}, {\"@type\": \"Question\", \"name\": \"When is a camera inspection useful?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Recurring trouble, multiple backed-up fixtures and suspected root entry are reasons to ask about inspection. A camera can help locate the obstruction and reveal whether the line is suitable for pressure cleaning.\"}}, {\"@type\": \"Question\", \"name\": \"Who handles Hudson public sewer questions?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Hudson identifies Summit County as its sanitary sewer provider. A private drain blockage and public sewer trouble require different follow-up; establish where the problem is before choosing who should address it.\"}}, {\"@type\": \"Question\", \"name\": \"Does my Hudson neighborhood prove I have sanitary sewer?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"No. Confirm the system at the property. Summit County Public Health oversees household sewage treatment systems, and sewer connection questions go to the local sewer authority.\"}}]}"
       ],
       "formHtml": "<form class=\"form\" data-lead-form=\"\" id=\"Hudson-Hydro-Jetting-Pros-Form\" name=\"Hudson-Hydro-Jetting-Pros-Form\"><input aria-hidden=\"true\" class=\"honeypot\" name=\"page_site\" readonly=\"\" tabindex=\"-1\" type=\"text\" value=\"Hudson Hydro Jetting Pros\"/><input aria-hidden=\"true\" class=\"honeypot\" name=\"page_location\" readonly=\"\" tabindex=\"-1\" type=\"text\" value=\"Hudson Hydro Jetting Pros\"/><input aria-hidden=\"true\" class=\"honeypot\" name=\"page_code\" readonly=\"\" tabindex=\"-1\" type=\"text\" value=\"HSP\"/>\n<label>\n       Your name\n       <input autocomplete=\"name\" name=\"full_name\" required=\"\"/>\n</label>\n<label>\n       Phone number\n       <input autocomplete=\"tel\" name=\"phone\" required=\"\" type=\"tel\"/>\n</label>\n<label>\n       Email address\n       <input autocomplete=\"email\" name=\"email\" type=\"email\"/>\n</label>\n<label>\n       What is happening?\n       <textarea name=\"page_details\" placeholder=\"Tell us which drains are affected and what you have noticed.\" required=\"\"></textarea>\n</label>\n<label aria-hidden=\"true\" class=\"honeypot\">\n       Leave this blank\n       <input autocomplete=\"off\" name=\"website\" tabindex=\"-1\"/>\n</label>\n<button class=\"btn\" type=\"submit\">\n       Request a call\n      </button>\n<div aria-live=\"polite\" role=\"status\">\n</div>\n<small>\n       We use your information to respond to your request. For urgent sewage backups, keep people away from the affected area and contact a qualified plumbing professional.\n      </small>\n</form>",
       "contactH2": "Request a call",
@@ -71,12 +83,24 @@
       "faqH2": "Common questions",
       "faq": [
         {
-          "q": "Is hydro jetting right for every pipe?",
-          "a": "No. A qualified professional should check the material, condition and blockage before choosing pressure or a nozzle. Broken or badly deteriorated pipes may need repair instead."
+          "q": "Is hydro jetting right for every Hudson sewer pipe?",
+          "a": "No. Historic homes may contain later replacement sections, and appearance alone does not establish condition. A professional should check the pipe and choose suitable equipment before cleaning."
         },
         {
-          "q": "What should I include in my request?",
-          "a": "Describe the affected fixtures, how long the problem has been present, any prior cleaning and whether the property uses sanitary sewer or a household sewage system."
+          "q": "Will cleaning prevent every future sewer backup?",
+          "a": "No. Cleaning can remove suitable obstructions, but it does not close an open joint or repair a collapsed line. A returning backup may need inspection and repair as well as cleaning."
+        },
+        {
+          "q": "When is a camera inspection useful?",
+          "a": "Recurring trouble, multiple backed-up fixtures and suspected root entry are reasons to ask about inspection. A camera can help locate the obstruction and reveal whether the line is suitable for pressure cleaning."
+        },
+        {
+          "q": "Who handles Hudson public sewer questions?",
+          "a": "Hudson identifies Summit County as its sanitary sewer provider. A private drain blockage and public sewer trouble require different follow-up; establish where the problem is before choosing who should address it."
+        },
+        {
+          "q": "Does my Hudson neighborhood prove I have sanitary sewer?",
+          "a": "No. Confirm the system at the property. Summit County Public Health oversees household sewage treatment systems, and sewer connection questions go to the local sewer authority."
         }
       ]
     },
