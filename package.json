@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "build:preview": "BASE=/hudson-hydro-jetting-pros astro build && node scripts/neighborhood-preview.mjs /hudson-hydro-jetting-pros"
   },
   "dependencies": {
     "astro": "^5.13.0"
